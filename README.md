@@ -5,7 +5,7 @@
 <a name="install"></a>
 ### Instalación
 
-`composer require santigraviano/laravel-mercadopago`
+`composer require medrex/mercado-pago-etiquetas-mercado-envios`
 
 Dentro de `config/app.php` agregar los siguientes Provider y Alias
 
